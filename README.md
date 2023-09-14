@@ -1,0 +1,2 @@
+# bamboo
+a easy note
